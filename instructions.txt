@@ -4,5 +4,3 @@ Please find the deployment instructions as below.
 
 Installation on IIS
 -------------------
-
-Content goes here

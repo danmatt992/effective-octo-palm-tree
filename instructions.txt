@@ -1,3 +1,9 @@
 Instructions for deploying this site to the server
 --------------------------------------------------
-Please find the deployment instructions as below.
+
+Please find the deployment instructions as below. 
+
+Troubleshooting
+---------------
+
+
